@@ -109,4 +109,3 @@ elif page == "📬 Contact":
     st.write("📧 Email: yourmail@gmail.com")
     st.write("💻 GitHub: github.com/yourname")
     st.write("🔗 LinkedIn: linkedin.com/in/yourname")
-A
