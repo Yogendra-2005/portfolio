@@ -70,12 +70,12 @@ elif page == "📂 Projects":
     # ---- SALES DASHBOARD ----
     if project == "📊 Sales Analytics Dashboard":
         st.info("Real company-level sales dashboard using Python & Streamlit")
-        runpy.run_path("Projects/sales_dashboard.py")
+        runpy.run_path("projects/sales_dashboard.py")
 
     # ---- ML PROJECT ----
     elif project == "🤖 AI Placement Intelligence":
         st.info("Machine Learning model predicting placement probability")
-        runpy.run_path("Projects/placement_model.py")
+        runpy.run_path("projects/placement_model.py")
 
     # ---- PORTFOLIO ----
     elif project == "🌐 Portfolio Info":
